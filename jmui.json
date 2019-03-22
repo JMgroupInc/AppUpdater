@@ -1,5 +1,5 @@
 {
-"update":"false"
-"v_status":"Stable"
-"new_version":"1.0.0"
+  "vStatus": "Stable",
+  "latestVersionCode": "1.0.0",
+  "update": "true"
 }
